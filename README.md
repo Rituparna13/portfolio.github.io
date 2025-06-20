@@ -1,2 +1,33 @@
 # portfolio.github.io
-Personal portfolio website showcasing my skills, projects, and experience as a Full Stack Developer (Java, React, MongoDB, Spring Boot)
+# Rituparna Banik - Portfolio 👩‍💻
+
+Welcome to my personal portfolio website!  
+I'm a final-year B.Tech Computer Science student at KIIT Bhubaneswar, passionate about Full Stack Development using Java, React, Spring Boot, and MongoDB.
+
+## 🌟 Live Demo
+[Visit Portfolio](https://your-username.github.io/portfolio-rituparna)
+
+## 🛠️ Technologies Used
+- HTML5 / CSS3 / Bootstrap
+- JavaScript / jQuery
+- React (if applicable)
+- Java / Spring Boot (if part of backend)
+- GitHub Pages (for hosting)
+
+## 📁 Features
+- About Me section
+- Projects showcase
+- Contact Information
+- Resume link
+
+## 📷 Preview
+![Screenshot](screenshot.png) <!-- Upload a screenshot of your site if you'd like -->
+
+## 📫 Contact Me
+- 📧 Email: banikrituparna762@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/rituparna-here](https://www.linkedin.com/in/rituparna-here/)
+- 🐱 GitHub: [github.com/Rituparna13](https://github.com/Rituparna13)
+
+---
+
+⭐ Feel free to fork, star, or give feedback!
