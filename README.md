@@ -6,7 +6,7 @@ I'm a final-year B.Tech Computer Science student at KIIT Bhubaneswar, passionate
 
 ## 🌟 Live Demo
 [Visit Portfolio](https://rituparna13.github.io/portfolio.github.io/)
-)
+
 
 ## 🛠️ Technologies Used
 - HTML5 / CSS3 / Bootstrap
@@ -22,7 +22,7 @@ I'm a final-year B.Tech Computer Science student at KIIT Bhubaneswar, passionate
 - Resume link
 
 ## 📷 Preview
-![Screenshot](screenshot.png) <!-- Upload a screenshot of your site if you'd like -->
+![Screenshot](RITUPARNA.png) <!-- Upload a screenshot of your site if you'd like -->
 
 ## 📫 Contact Me
 - 📧 Email: banikrituparna762@gmail.com
