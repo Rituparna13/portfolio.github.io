@@ -21,9 +21,6 @@ I'm a final-year B.Tech Computer Science student at KIIT Bhubaneswar, passionate
 - Contact Information
 - Resume link
 
-## 📷 Preview
-![Screenshot](RITUPARNA.png) <!-- Upload a screenshot of your site if you'd like -->
-
 ## 📫 Contact Me
 - 📧 Email: banikrituparna762@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/rituparna-here](https://www.linkedin.com/in/rituparna-here/)
