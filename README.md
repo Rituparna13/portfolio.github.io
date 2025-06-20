@@ -5,7 +5,8 @@ Welcome to my personal portfolio website!
 I'm a final-year B.Tech Computer Science student at KIIT Bhubaneswar, passionate about Full Stack Development using Java, React, Spring Boot, and MongoDB.
 
 ## 🌟 Live Demo
-[Visit Portfolio](https://your-username.github.io/portfolio-rituparna)
+[Visit Portfolio](https://rituparna13.github.io/portfolio.github.io/)
+)
 
 ## 🛠️ Technologies Used
 - HTML5 / CSS3 / Bootstrap
